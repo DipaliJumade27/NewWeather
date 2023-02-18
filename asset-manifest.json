@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NewWeather/static/css/main.cc6200d1.css",
+    "main.js": "/NewWeather/static/js/main.8c8b7ba2.js",
+    "static/js/787.8931933b.chunk.js": "/NewWeather/static/js/787.8931933b.chunk.js",
+    "static/media/city.jpg": "/NewWeather/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/WeatherIcons.gif": "/NewWeather/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/NewWeather/static/media/background.557a9309bec30e5e09e5.jpg",
+    "index.html": "/NewWeather/index.html",
+    "main.cc6200d1.css.map": "/NewWeather/static/css/main.cc6200d1.css.map",
+    "main.8c8b7ba2.js.map": "/NewWeather/static/js/main.8c8b7ba2.js.map",
+    "787.8931933b.chunk.js.map": "/NewWeather/static/js/787.8931933b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc6200d1.css",
+    "static/js/main.8c8b7ba2.js"
+  ]
+}
